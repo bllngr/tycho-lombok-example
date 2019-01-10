@@ -18,5 +18,6 @@
 		<module>com.vogella.tycho.rcp</module>
 		<module>com.vogella.tycho.p2.ui</module>
 		<module>com.vogella.tycho.help</module>
+		<module>org.projectlombok.lombok</module>
 	</modules>
 </project>

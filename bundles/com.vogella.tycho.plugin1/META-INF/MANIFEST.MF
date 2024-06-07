@@ -11,7 +11,7 @@ Require-Bundle: org.eclipse.e4.ui.model.workbench,
  org.eclipse.swt,
  org.eclipse.osgi.services,
  org.eclipse.e4.core.di.extensions,
- org.projectlombok.lombok;bundle-version="1.18.4"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+ org.projectlombok.lombok;bundle-version="1.18.32"
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Import-Package: javax.inject;version="1.0.0"
 Export-Package: com.vogella.tycho.plugin1.addons
